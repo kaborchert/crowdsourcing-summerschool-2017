@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Home</title>
+  <meta name="description" content="">
+  
+
+  <!-- External libraries -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+
+  
+
+  
+
+  
+
+  <!-- Site styles -->
+  <link rel="stylesheet" href="/css/general.css">
+  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="alternate" type="application/rss+xml" title="Crowdsourcing Summerschool 2017" href="http://localhost:4000/feed.xml" />
+</head>
+
+
+  <body>
+
+    <div class="header">
+  <div class="navigation-wrapper">
+    <nav role="navigation">
+      <ul id="js-navigation-menu" class="navigation-menu show">
+        
+          
+          <li class="nav-link"><a href="/call-for-participation/">Call for Participation</a>
+          
+        
+          
+        
+          
+          <li class="nav-link"><a href="/program/">Program</a>
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+    </nav>
+      <div class="clear-both"></div>
+  </div>
+    <div class="clear-both"></div>
+  <div class="site-title-wrapper">
+      <div class="site-title">Crowdsourcing Summerschool 2017</div>
+  </div>
+</div>
+
+
+    <div class="page-content">
+        
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h3 class="footer-heading">Crowdsourcing Summerschool 2017</h3>
+
+    <div class="site-navigation footer-column">
+
+      <p><strong>Site Map</strong></p>
+      <ul class="pages">
+        
+        
+          <li class="nav-link"><a href="/call-for-participation/">Call for Participation</a>
+        
+        
+        
+        
+        
+          <li class="nav-link"><a href="/program/">Program</a>
+        
+        
+        
+        
+        
+        
+        
+        
+      </ul>
+    </div>
+
+      <div class="footer-column">
+    <div class="site-contact">
+
+      <p><strong>Contact</strong></p>
+      <ul class="social-media-list">
+        <li>
+          <a href="mailto:your-email@domain.com">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">your-email@domain.com</span>
+          </a>
+        </li>
+
+        
+
+      </ul>
+    </div>
+
+    <div class="site-signature">
+      <p class="rss-subscribe text"><strong>Subscribe <a href="/feed.xml">via RSS</a></strong></p>
+      <p class="text"></p>
+    </div>
+      </div>
+
+      <div class="clear-both"></div>
+
+  </div>
+
+</footer>
+
+<!-- Scripts -->
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  // Default syntax highlighting
+  hljs.initHighlightingOnLoad();
+
+  // Header
+  var menuToggle = $('#js-mobile-menu').unbind();
+  $('#js-navigation-menu').removeClass("show");
+  menuToggle.on('click', function(e) {
+    e.preventDefault();
+    $('#js-navigation-menu').slideToggle(function(){
+      if($('#js-navigation-menu').is(':hidden')) {
+        $('#js-navigation-menu').removeAttr('style');
+      }
+    });
+  });
+});
+
+</script>
+
+
+
+
+
+
+  </body>
+
+</html>
