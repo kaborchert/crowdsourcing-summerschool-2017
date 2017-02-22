@@ -5,3 +5,22 @@
 .clear-both {
     clear: both;
 }
+.main-content h1, .main-content h2, .main-content h3, .main-content h4 {
+  color:#004a8f;
+}
+.page-header{
+  background-color: #d1d4d4;
+  color: #004a8f;
+    background-image: url("uni-wuerzburg-header-background.png");
+    background-size: cover;
+}
+.navigation-wrapper a {
+  color: #004a8f;
+  background-color: rgba(0, 74, 143, 0.08);
+  border-color: rgba(0, 74, 143, 0.3);
+}
+.navigation-wrapper a:hover {
+  color: #004a8f;
+  background-color: rgba(0, 74, 143, 0.15);
+  border-color: rgba(0, 74, 143, 0.5);
+}
