@@ -13,6 +13,10 @@
   color: #004a8f;
     background-image: url("uni-wuerzburg-header-background.png");
     background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 .navigation-wrapper a {
   color: #004a8f;
@@ -23,4 +27,30 @@
   color: #004a8f;
   background-color: rgba(0, 74, 143, 0.15);
   border-color: rgba(0, 74, 143, 0.5);
+}
+#uni-wuerzburg-logo {
+  background-image: url("header_links.jpg");
+  background-size: contain;
+  height: 70px;
+  width: 150px;
+  margin: 5px 30px 10px 30px;
+  float: left;
+}
+
+#i3-logo {
+  background-image: url("i3logo_schatten.png");
+  background-size: contain;
+  height: 75px;
+  width: 75px;
+  margin: 2px 10px 10px 30px;
+  float: left;
+}
+
+#uni-duisburg-logo {
+  background-image: url("ude-logo.png");
+  background-size: contain;
+  height: 65px;
+  width: 170px;
+  margin: 5px 30px 10px 30px;
+  float: left;
 }
