@@ -811,19 +811,65 @@ a {
 .clear-both {
   clear: both; }
 
-.navigation-wrapper {
-  width: 950px;
-  margin: 0 auto;
-  font-size: 16px; }
+.main-content h1, .main-content h2, .main-content h3, .main-content h4 {
+  color: #004a8f; }
 
-.navigation-wrapper ul {
-  list-style: none;
-  float: right; }
-
-.navigation-wrapper ul li {
-  float: left;
-  margin-left: 20px; }
+.page-header {
+  background-color: #d1d4d4;
+  color: #004a8f;
+  background-image: url("uni-wuerzburg-header-background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 40px;
+  padding-bottom: 40px; }
 
 .navigation-wrapper a {
-  text-decoration: none;
-  color: #2f2f2f; }
+  color: #004a8f;
+  background-color: rgba(0, 74, 143, 0.08);
+  border-color: rgba(0, 74, 143, 0.3); }
+
+.navigation-wrapper a:hover {
+  color: #004a8f;
+  background-color: rgba(0, 74, 143, 0.15);
+  border-color: rgba(0, 74, 143, 0.5); }
+
+#uni-wuerzburg-logo {
+  background-image: url("header_links.jpg");
+  background-size: contain;
+  height: 70px;
+  width: 150px;
+  margin: 5px 30px 10px 30px;
+  float: left; }
+
+#i3-logo {
+  background-image: url("i3logo_schatten.png");
+  background-size: contain;
+  height: 75px;
+  width: 75px;
+  margin: 6px 30px 6px 30px;
+  float: left; }
+
+#uni-duisburg-logo {
+  background-image: url("ude-logo.png");
+  background-size: contain;
+  height: 65px;
+  width: 170px;
+  margin: 11px 30px 11px 30px;
+  float: left; }
+
+#mmb-logo {
+  background-image: url("mmb-logo.jpg");
+  background-size: contain;
+  height: 85px;
+  width: 82px;
+  margin: 1px 30px 1px 30px;
+  float: left; }
+
+#mas-logo {
+  background-image: url("mas-logo.png");
+  background-size: contain;
+  height: 85px;
+  width: 82px;
+  margin: 1px 30px 1px 30px;
+  float: left; }
