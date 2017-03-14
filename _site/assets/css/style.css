@@ -835,8 +835,8 @@ a {
   border-color: rgba(0, 74, 143, 0.5); }
 
 .logos ul {
-  list-style: none;
-  display: inline; }
+  list-style-type: none;
+  padding: 0; }
 
 .logos ul li {
   float: left;
