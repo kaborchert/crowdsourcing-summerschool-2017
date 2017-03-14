@@ -28,47 +28,11 @@
   background-color: rgba(0, 74, 143, 0.15);
   border-color: rgba(0, 74, 143, 0.5);
 }
-#uni-wuerzburg-logo {
-  background-image: url("header_links.jpg");
-  background-size: contain;
-  height: 70px;
-  width: 150px;
-  margin: 5px 30px 10px 30px;
-  float: left;
+.logos ul {
+  list-style: none;
+  display: inline;
 }
-
-#i3-logo {
-  background-image: url("i3logo_schatten.png");
-  background-size: contain;
-  height: 75px;
-  width: 75px;
-  margin: 6px 30px 6px 30px;
+.logos ul li {
   float: left;
-}
-
-#uni-duisburg-logo {
-  background-image: url("ude-logo.png");
-  background-size: contain;
-  height: 65px;
-  width: 170px;
-  margin: 11px 30px 11px 30px;
-  float: left;
-}
-
-#mmb-logo{
-  background-image: url("mmb-logo.jpg");
-  background-size: contain;
-  height: 85px;
-  width: 82px;
-  margin: 1px 30px 1px 30px;
-  float: left;
-}
-
-#mas-logo{
-  background-image: url("mas-logo.png");
-  background-size: contain;
-  height: 85px;
-  width: 82px;
-  margin: 1px 30px 1px 30px;
-  float: left;
+  margin: 5px 20px;
 }
