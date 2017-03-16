@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call for Participation
+order: 2
 permalink: /call-for-participation/
 ---
 Crowdsourcing has become a valuable tool for subjective evaluation as it enable an easy and cost effective access to a large number of diverse users. However, for years the main focus of those evaluation lay on web-based application for PCs or laptops.  On the contrary, crowdsensing and some citizen science approach already use the potential of the increasing number of mobile users, but mainly focus on collecting sensoric data from smart devices.
