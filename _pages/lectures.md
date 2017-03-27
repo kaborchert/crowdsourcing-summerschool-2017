@@ -12,6 +12,6 @@ permalink: /lectures/
 * Tim Güneysu, University of Bremen
 * Robert Henjes, Bosch
 * Udo Krieger, Otto-Friedrich University Bamberg
-* Florian Metzer, University of Duisburg-Essen
+* Florian Metzger, University of Duisburg-Essen
 * Babak Naderi, TU Berlin
 * Alexander Platzer, University of Vienna
