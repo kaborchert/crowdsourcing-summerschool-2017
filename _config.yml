@@ -29,3 +29,6 @@ exclude:
   - Gemfile.lock
 
 include: ['_pages']
+
+# Google services
+google_analytics: UA-96669304-1
