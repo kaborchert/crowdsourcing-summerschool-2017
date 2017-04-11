@@ -841,3 +841,7 @@ a {
 .logos ul li {
   float: left;
   margin: 5px 20px; }
+
+.center-image {
+  margin: 0 auto;
+  display: block; }
