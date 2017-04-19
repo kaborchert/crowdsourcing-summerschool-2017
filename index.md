@@ -14,8 +14,12 @@ The summer school focuses on combining objective measurement data from mobile se
 The summer school takes place in W&uuml;rzburg, Germany from July 31st to August 4th, 2017.  
 The programm of the summer school can be found at [Program]({{ site.baseurl }}{% link _pages/program.md %}).
 
+We thank [Microworkers](https://microworkers.com){:target='_blank'} for sponsoring US$1500 of crowdsourcing credit at the Microworkers crowdsourcing platform for the working groups of the Summer School. This sponsorship makes it possible to run real crowdsourcing experiments and gives the opportunity to advance and practically investigate research ideas in small group work.
 
-**Contact points**
+![Microworkers logo]({{ site.url }}/assets/images/mw-logo.gif)
+
+
+### Contact points
 
 [Matthias Hirth](http://www.comnet.informatik.uni-wuerzburg.de/staff/members/matthias_hirth/){:target="_blank"}, University of W&uuml;rzburg, Germany  
 [Tobias Ho&szlig;feld](https://www.mas.wiwi.uni-due.de/team/tobias-hossfeld/){:target="_blank"}, University of Duisburg-Essen, Germany
