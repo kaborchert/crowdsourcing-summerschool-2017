@@ -845,3 +845,7 @@ a {
 .center-image {
   margin: 0 auto;
   display: block; }
+
+.lecturer-image {
+  float: right;
+  border-radius: 50%; }
