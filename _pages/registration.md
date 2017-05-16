@@ -8,7 +8,7 @@ The application for the summer school is now open and closes at latest on 31.06.
 Before applying for the summer school, please read the following instructions that will guide you through the registration process on [EDAS](https://edas.info/N23467){:target='_blank'}.
 
 ## Start your Registration
-Visit [https://edas.info/N23467](http://edas.info/N23467){:target='_blank'} to start the registration.
+Visit [https://edas.info/N23467](https://edas.info/N23467){:target='_blank'} to start the registration.
 In the first step you will be asked to fill in a title for your paper.
 Please use "IoTCrowd Application &lt;First name&gt; &lt;Last name&gt;" here.
 You are also requested to indicate if you want to present a post during the summer school.
