@@ -33,7 +33,7 @@ _Otto-Friedrich University Bamberg_
 Florian Metzger   
 _University of Duisburg-Essen_
 
-To be announced   
+[Subjective Speech Quality Assessment using Mobile Crowdsourcing]({{ site.url }}/lectures/babak-naderi)   
 Babak Naderi   
 _TU Berlin_   
 
