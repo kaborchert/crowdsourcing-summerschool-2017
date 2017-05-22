@@ -9,7 +9,7 @@ permalink: /lectures/
 Martin Becker   
 _University of W&uuml;rzburg_
 
-To be announced   
+[Design &amp; Application of Crowdsourcing Studies - Lessons Learned and Best practices]({{ site.url}}/lectures/kathrin-borchert)  
 Kathrin Borchert   
 _University of W&uuml;rzburg_   
 
