@@ -17,7 +17,7 @@ _University of W&uuml;rzburg_
 Alessandro Floris   
 _University of Cagliari_
 
-[ Challenges for Security and Cryptography for the IoT]({{ site.url }}/lectures/tim-gueneysu)   
+[Challenges for Security and Cryptography for the IoT]({{ site.url }}/lectures/tim-gueneysu)   
 Tim G&uuml;neysu   
 _University of Bremen_   
 
@@ -25,8 +25,8 @@ To be announced
 Robert Henjes   
 _Bosch_   
 
-To be announced   
-Udo Krieger   
+[Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   
+Udo Krieger and Marcel Gro&szlig;mann   
 _Otto-Friedrich University Bamberg_
 
 [Practical IoT and Crowdsensing Considerations]({{ site.url }}/lectures/florian-metzger)    
