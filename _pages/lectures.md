@@ -21,10 +21,6 @@ _University of Cagliari_
 Tim G&uuml;neysu   
 _University of Bremen_   
 
-To be announced   
-Robert Henjes   
-_Bosch_   
-
 [Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   
 Udo Krieger and Marcel Gro&szlig;mann   
 _Otto-Friedrich University Bamberg_

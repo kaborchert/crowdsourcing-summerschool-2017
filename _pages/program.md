@@ -5,25 +5,86 @@ order: 4
 permalink: /program/
 ---
 
-## List of topics (**preliminary**)
-* Crowdsourcing in general, concepts, platforms, frameworks
-* Crowdsensing, mobile and participatory sensing
-* IoT architectures, platforms and OS
-* Networking protocols and paradigms for IoT
-* Crowdsourced QoE 
-* QoE of IoT applications and services
-* Machine learning and statistical analysis
+## Overview
 
+The schedule of the summer school is as follows.
 
-## Time Schedule
+* Monday, July 31st, 2017:  
+  Introduction of the participants and lecture on crowdsourcing.
+* Tuesday, August 1st, 2017:  
+  Lectures on participatory sensing, security in IoT, and subjective assessments in mobile crowdsourcing.
+* Wednesday, August 2nd, 2017:  
+  Lectures and hands-on session on IoT applications and Quality of Exerience in the IoT context.
+* Thursday, August 3rd, 2017:  
+  Lecture and hands-on session on applied machine learning
+* Friday, August 4th, 2017:  
+  Lecture and hands-on session fog computing for IoT applications and presentation of the group work results.
 
-|             | Monday | Tuesday | Wednesday | Thursday | Friday | 
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|9:00 - 9:45  | Welcome & Intro | Lecture | Lecture | Lecture | Lecture |
-|9:45 - 10:30 | Madness Session | Lecture | Lecture | Lecture | Lecture |
-|11:00 - 11:45| Madness Session | Lecture | Lecture | Lecture | Lecture |
-|11:45 - 12:30| Group Presentation | Lecture | Lecture | Lecture | Lecture |
-|14:00 - 14:45| Lecture | Group Work / Hands-on | Group Work / Hands-on | Group Work / Hands-on | Group Work / Hands-on |
-|14:45 - 15:30| Lecture | Group Work / Hands-on | Group Work / Hands-on | Group Work / Hands-on | Group Presentation |
-|15:45 - 16:30| Group Work / Hands-on | Group Work / Hands-on |Group Work / Hands-on |Group Work / Hands-on | Group Presentation & Wrap Up|
+Every day, the program starts at 9:30 and will end at about 16:30.
+During the day there will be two short breaks one in morning and one in the afternoon.
+Additionally, there is a lunch break around noon.
+* 9:00 - 10:30: Lecture
+* 10:30 - 11:00: Break
+* 11:00 - 12:30: Lecture / Hands-on session 
+* 12:30 - 14:00: Lunch
+* 14:00 - 15:30: Lecture / Hands-on session
+* 15:30 - 15:45: Break
+* 15:45 - 16:30: Group Work      
 
+## Detailed Time Schedule
+
+| **Monday, July 31st, 2017** | **Activity** |
+|9:00 - 9:45  | Welcome & Intro |   
+|9:45 - 10:30 | Madness Session | 
+|             | *Break*         | 
+|11:00 - 11:45| Madness Session |
+|11:45 - 12:30| Group Presentation
+|             | *Lunch*         | 
+|14:00 - 14:45| (**Lecture**) [Design &amp; Application of Crowdsourcing Studies - Lessons Learned and Best Practices]({{ site.url}}/lectures/kathrin-borchert)  | 
+|14:45 - 15:30| (**Lecture**) [Design &amp; Application of Crowdsourcing Studies - Lessons Learned and Best Practices]({{ site.url}}/lectures/kathrin-borchert)  | 
+|             | *Break*         | 
+|15:45 - 16:30| Group Work      |
+| **Tuesday, August 1st, 2017** |     |
+|9:00 - 9:45  | (**Lecture**) [Participatory Sensing in Urban Environments]({{ site.url }}/lectures/martin-becker) |   
+|9:45 - 10:30 | (**Lecture**) [Participatory Sensing in Urban Environments]({{ site.url }}/lectures/martin-becker) | 
+|             | *Break*         | 
+|11:00 - 11:45| (**Lecture**) [Challenges for Security and Cryptography for the IoT]({{ site.url }}/lectures/tim-gueneysu) |
+|11:45 - 12:30| (**Lecture**) [Challenges for Security and Cryptography for the IoT]({{ site.url }}/lectures/tim-gueneysu) |
+|             | *Lunch*         | 
+|14:00 - 14:45| (**Lecture**) [Subjective Speech Quality Assessment using Mobile Crowdsourcing]({{ site.url }}/lectures/babak-naderi)    | 
+|14:45 - 15:30| (**Lecture**) [Subjective Speech Quality Assessment using Mobile Crowdsourcing]({{ site.url }}/lectures/babak-naderi)    | 
+|             | *Break*         | 
+|15:45 - 16:30| Group Work      |   
+| **Wednesday, August 2nd, 2017** |     |
+|9:00 - 9:45  | (**Lecture**) [Practical IoT and Crowdsensing Considerations]({{ site.url }}/lectures/florian-metzger) |   
+|9:45 - 10:30 | (**Lecture**) [Practical IoT and Crowdsensing Considerations]({{ site.url }}/lectures/florian-metzger) | 
+|             | *Break*         | 
+|11:00 - 11:45| (**Hands-On**) [Practical IoT and Crowdsensing Considerations]({{ site.url }}/lectures/florian-metzger) |
+|11:45 - 12:30| (**Hands-On**) [Practical IoT and Crowdsensing Considerations]({{ site.url }}/lectures/florian-metzger) |
+|             | *Lunch*         | 
+|14:00 - 14:45| (**Lecture**) [Quality of Experience for IoT Applications and Services]({{ site.url }}/lectures/alessandro-floris)  | 
+|14:45 - 15:30| (**Lecture**) [Quality of Experience for IoT Applications and Services]({{ site.url }}/lectures/alessandro-floris)  | 
+|             | *Break*         | 
+|15:45 - 16:30| Group Work      |
+| **Thursday, August 3rd, 2017** |     |
+|9:00 - 9:45  | (**Lecture**) [Applied Machine Learning]({{ site.url }}/lectures/alexander-platzer)  |   
+|9:45 - 10:30 | (**Lecture**) [Applied Machine Learning]({{ site.url }}/lectures/alexander-platzer)  | 
+|             | *Break*         | 
+|11:00 - 11:45| (**Lecture**) [Applied Machine Learning]({{ site.url }}/lectures/alexander-platzer)  |
+|11:45 - 12:30| (**Hands-On**) [Applied Machine Learning]({{ site.url }}/lectures/alexander-platzer)  |
+|             | *Lunch*         | 
+|14:00 - 14:45| (**Hands-On**) [Applied Machine Learning]({{ site.url }}/lectures/alexander-platzer)  | 
+|14:45 - 15:30| (**Hands-On**) [Applied Machine Learning]({{ site.url }}/lectures/alexander-platzer)  | 
+|             | *Break*         | 
+|15:45 - 16:30| Group Work      | 
+| **Friday, August 4th, 2017** |     |
+|9:00 - 9:45  | (**Lecture**) [Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   |   
+|9:45 - 10:30 | (**Lecture**) [Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   | 
+|             | *Break*         | 
+|11:00 - 11:45| (**Hands-On**) [Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   |
+|11:45 - 12:30| (**Hands-On**) [Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   |
+|             | *Lunch*         | 
+|14:00 - 14:45| Group Work  | 
+|14:45 - 15:30| Group Presentation  | 
+|             | *Break*         | 
+|15:45 - 16:30| Group Presentation & Wrap-Up|   
