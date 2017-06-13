@@ -21,6 +21,10 @@ _University of Cagliari_
 Tim G&uuml;neysu   
 _University of Bremen_   
 
+Bosch IoT Cloud    
+Robert Henjes   
+_Robert Bosch GmbH_
+
 [Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   
 Udo Krieger and Marcel Gro&szlig;mann   
 _Otto-Friedrich University Bamberg_

@@ -10,15 +10,15 @@ permalink: /program/
 The schedule of the summer school is as follows.
 
 * Monday, July 31st, 2017:  
-  Introduction of the participants and lecture on crowdsourcing.
+  Introduction of the participants; Lecture on crowdsourcing.
 * Tuesday, August 1st, 2017:  
-  Lectures on participatory sensing, security in IoT, and subjective assessments in mobile crowdsourcing.
+  Lectures on participatory sensing, security in IoT; Subjective assessments in mobile crowdsourcing.
 * Wednesday, August 2nd, 2017:  
-  Lectures and hands-on session on IoT applications and Quality of Exerience in the IoT context.
+  Lectures and hands-on session on IoT applications; Quality of Exerience in the IoT context.
 * Thursday, August 3rd, 2017:  
-  Lecture and hands-on session on applied machine learning
+  Lecture and hands-on session on applied machine learning; Industry talk.
 * Friday, August 4th, 2017:  
-  Lecture and hands-on session fog computing for IoT applications and presentation of the group work results.
+  Lecture and hands-on session fog computing for IoT applications; Presentation of the group work results.
 
 Every day, the program starts at 9:30 and will end at about 16:30.
 During the day there will be two short breaks one in morning and one in the afternoon.
@@ -76,7 +76,8 @@ Additionally, there is a lunch break around noon.
 |14:00 - 14:45| (**Hands-On**) [Applied Machine Learning]({{ site.url }}/lectures/alexander-platzer)  | 
 |14:45 - 15:30| (**Hands-On**) [Applied Machine Learning]({{ site.url }}/lectures/alexander-platzer)  | 
 |             | *Break*         | 
-|15:45 - 16:30| Group Work      | 
+|15:45 - 16:30| (**Industry talk**) Bosch IoT Cloud 
+|16:30 - 17:15| (**Industry talk**) Bosch IoT Cloud 
 | **Friday, August 4th, 2017** |     |
 |9:00 - 9:45  | (**Lecture**) [Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   |   
 |9:45 - 10:30 | (**Lecture**) [Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   | 
