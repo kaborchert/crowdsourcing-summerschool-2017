@@ -4,7 +4,7 @@ title: Registration
 order: 6
 permalink: /registration/
 ---
-The application for the summer school is now open and closes at latest on 31.06.2017 or if the maximum number of participants is reached. 
+The application for the summer school is now open and closes at latest on **July 10th 2017** or if the maximum number of participants is reached. 
 Before applying for the summer school, please read the following instructions that will guide you through the registration process on [EDAS](https://edas.info/N23467){:target='_blank'}.
 
 ## Start your Registration

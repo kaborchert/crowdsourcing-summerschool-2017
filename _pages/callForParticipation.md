@@ -44,7 +44,7 @@ Crowdsourcing and IoT experiments may be conducted and the results analyzed stat
 In the end, this may result in a joint publication of the research group.
 
 ## Application and Registration 
-*	The application for the summer school is now open and closes 31.06.2017 or if the maximum number of participants (30) is reached. 
+*	The application for the summer school is now open and closes **July 10th 2017** or if the maximum number of participants (30) is reached. 
 * The participation in the summer school is **free of charge**.
 * The number of places is limited to 30 participants.
 * Group work: In order to find groups of researchers interested in the same topic and to do joint group work please prepare short document addressing the following questions.
