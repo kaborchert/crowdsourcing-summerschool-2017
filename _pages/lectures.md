@@ -21,7 +21,7 @@ _University of Cagliari_
 Tim G&uuml;neysu   
 _University of Bremen_   
 
-Bosch IoT Cloud    
+[Building a Cloud Platform for the Internet of Things – The Bosch IoT Cloud]({{ site.url }}/lectures/robert-henjes)   
 Robert Henjes   
 _Robert Bosch GmbH_
 

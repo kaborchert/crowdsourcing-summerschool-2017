@@ -76,8 +76,8 @@ Additionally, there is a lunch break around noon.
 |14:00 - 14:45| (**Hands-On**) [Applied Machine Learning]({{ site.url }}/lectures/alexander-platzer)  | 
 |14:45 - 15:30| (**Hands-On**) [Applied Machine Learning]({{ site.url }}/lectures/alexander-platzer)  | 
 |             | *Break*         | 
-|15:45 - 16:30| (**Industry talk**) Bosch IoT Cloud 
-|16:30 - 17:15| (**Industry talk**) Bosch IoT Cloud 
+|15:45 - 16:30| (**Industry talk**) [Building a Cloud Platform for the Internet of Things – The Bosch IoT Cloud]({{ site.url }}/lectures/robert-henjes)
+|16:30 - 17:15| (**Industry talk**) [Building a Cloud Platform for the Internet of Things – The Bosch IoT Cloud]({{ site.url }}/lectures/robert-henjes)
 | **Friday, August 4th, 2017** |     |
 |9:00 - 9:45  | (**Lecture**) [Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   |   
 |9:45 - 10:30 | (**Lecture**) [Fog Computing for IoT Applications]({{ site.url }}/lectures/udo-krieger_and_marcel-grossmann)   | 
