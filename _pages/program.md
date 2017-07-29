@@ -38,7 +38,7 @@ Additionally, there is a lunch break around noon.
 |9:45 - 10:30 | Madness Session | 
 |             | *Break*         | 
 |11:00 - 11:45| Madness Session |
-|11:45 - 12:30| Group Presentation
+|11:45 - 12:30| Poster Presentation
 |             | *Lunch*         | 
 |14:00 - 14:45| (**Lecture**) [Design &amp; Application of Crowdsourcing Studies - Lessons Learned and Best Practices]({{ site.url}}/lectures/kathrin-borchert)  | 
 |14:45 - 15:30| (**Lecture**) [Design &amp; Application of Crowdsourcing Studies - Lessons Learned and Best Practices]({{ site.url}}/lectures/kathrin-borchert)  | 
