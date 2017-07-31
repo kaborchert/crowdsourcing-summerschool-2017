@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration 
-order: 6
+order: 7
 permalink: /registration/
 ---
 The application for the summer school is now open and closes at latest on **July 10th 2017** or if the maximum number of participants is reached. 

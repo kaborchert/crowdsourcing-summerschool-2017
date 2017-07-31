@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Location
-order: 5
+order: 6
 permalink: /location/
 ---
 
