@@ -20,7 +20,7 @@ The schedule of the summer school is as follows.
 * Friday, August 4th, 2017:  
   Lecture and hands-on session fog computing for IoT applications; Presentation of the group work results.
 
-Every day, the program starts at 9:30 and will end at about 16:30.
+Every day, the program starts at 9:00 and will end at about 16:30.
 During the day there will be two short breaks one in morning and one in the afternoon.
 Additionally, there is a lunch break around noon.
 * 9:00 - 10:30: Lecture
