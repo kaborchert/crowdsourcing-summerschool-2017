@@ -19,7 +19,7 @@ _University of Cagliari_
 
 [Challenges for Security and Cryptography for the IoT]({{ site.url }}/lectures/tim-gueneysu)   
 Tim G&uuml;neysu   
-_University of Bremen_   
+_Ruhr-University Bochum_   
 
 [Building a Cloud Platform for the Internet of Things – The Bosch IoT Cloud]({{ site.url }}/lectures/robert-henjes)   
 Robert Henjes   

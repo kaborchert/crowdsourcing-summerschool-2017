@@ -13,7 +13,7 @@ We will also highlight several particular challenges that need our attention bef
 ## About the speaker
 ![Tim G&uuml;neysu]({{ site.url }}/assets/images/lecturers/tim-gueneysu.jpg){: .lecturer-image }
 **Tim G&uuml;neysu**   
-University of Bremen   
+Ruhr-University Bochum   
 Germany   
 [http://www.gueneysu.de](http://www.gueneysu.de){:target='_blank'}
 
